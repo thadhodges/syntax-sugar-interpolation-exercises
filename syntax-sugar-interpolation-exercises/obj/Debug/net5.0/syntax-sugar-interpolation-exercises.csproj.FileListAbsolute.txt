@@ -1,0 +1,16 @@
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\syntax-sugar-interpolation-exercises.exe
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\syntax-sugar-interpolation-exercises.deps.json
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\syntax-sugar-interpolation-exercises.runtimeconfig.json
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\syntax-sugar-interpolation-exercises.runtimeconfig.dev.json
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\syntax-sugar-interpolation-exercises.dll
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\ref\syntax-sugar-interpolation-exercises.dll
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\bin\Debug\net5.0\syntax-sugar-interpolation-exercises.pdb
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.csproj.AssemblyReference.cache
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.AssemblyInfoInputs.cache
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.AssemblyInfo.cs
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.dll
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\ref\syntax-sugar-interpolation-exercises.dll
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.pdb
+C:\WORK\REPO\syntax-sugar-interpolation-exercises\syntax-sugar-interpolation-exercises\obj\Debug\net5.0\syntax-sugar-interpolation-exercises.genruntimeconfig.cache

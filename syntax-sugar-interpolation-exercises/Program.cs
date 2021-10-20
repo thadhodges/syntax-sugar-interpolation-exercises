@@ -30,9 +30,26 @@ namespace syntax_sugar_interpolation_exercises
             var compareToNine = (i > 0 && i != 9) ? $"  {i} is less than 9" : $"  {i} is greater than or equal to 9...";
             Console.WriteLine(compareToNine);
 
+            Console.WriteLine();
+            Console.WriteLine();
+            //inferred variables
 
+            Console.WriteLine("inferred variables");
+            var a = 9;
+            string b;
 
-
+            if (a < 9)
+            {
+                b = a + " is less than nine";
+                Console.WriteLine(b);
+            }
+            else
+            {
+                b = a + " greater than or equal to 9";
+                Console.WriteLine(b);
+            }
+            Console.WriteLine();
+            Console.WriteLine();
 
 
         }
